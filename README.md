@@ -1,7 +1,7 @@
 # MSc Dissertation Code: CTR Predictions for SMEs  
 **Comparing Machine Learning and Feature Selection Methods for Digital Advertising**  
 
-This repository contains the code and resources for my MSc dissertation, titled:  
+This repository contains the code for my MSc dissertation, titled:  
 *“Ad Click Predictions: Comparing Machine Learning and Feature Selection Methods for Digital Advertising.”*
 
 ## Overview  
